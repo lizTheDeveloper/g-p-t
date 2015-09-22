@@ -3,7 +3,7 @@
 ### Materials:
 * Students' Laptops
 * [In-class IDE](https://repl.it/languages/javascript)
-* [Slides](http://slides.com/lizh/functions-in-js)
+* [Slides](http://slides.com/lizh/functions-in-js/live)
 * [livecoding](livecoding.md)
 
 ### Requirements:
