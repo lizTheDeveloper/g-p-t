@@ -31,7 +31,7 @@ function applyTax(tax, subTotal) {
     return subTotal + tax;
 }
 
-var total = applyTax(0.825, subTotal);
+var total = applyTax(0.0825, subTotal);
 
 function applyTip(total, tip) {
     var tip = total * tip;
