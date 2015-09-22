@@ -4,6 +4,7 @@
 * Students' Laptops
 * [In-class IDE](https://repl.it/languages/javascript)
 * [Slides](http://slides.com/lizh/functions-in-js)
+* [livecoding](livecoding.md)
 
 ### Requirements:
 Students should be able to:  
