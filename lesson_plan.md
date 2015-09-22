@@ -1,15 +1,15 @@
 ## Javascript Functions
 
 ### Materials:
-Students' Laptops
-[In-class IDE](https://repl.it/languages/javascript)
-[Slides](http://slides.com/lizh/functions-in-js)
+* Students' Laptops
+* [In-class IDE](https://repl.it/languages/javascript)
+* [Slides](http://slides.com/lizh/functions-in-js)
 
 ### Requirements:
 Students should be able to:  
 
 * Execute statements
-* Create variables
+* Declare and Initialize variables
 * Store the result of an expression in a variable
 * Use `console.log()` to see outputs
 
@@ -17,10 +17,10 @@ Students should be able to:
 ### Objectives:
 Students will write functions that:  
 
-* execute statements
-* have parameters that change the behavior of the function
-* have properly scoped variables
-* use the return keyword to return an expression
+* Execute statements
+* Have parameters that change the behavior of the function
+* Have properly scoped variables
+* Use the return keyword to return an expression
 * Students will be able to call functions:
 	* That have any number of parameters
 	* For use in expressions
@@ -29,7 +29,7 @@ Students will write functions that:
 
 ### Assessments:
 Accomplish the following and [send it to me](mailto:lizthedeveloper@gmail.com):  
-(Use https://repl.it/languages/javascript)  
+(Use [this link](https://repl.it/languages/javascript) to write your code- then click 'save' and send me the link)
 
 - [ ] Start with by writing a *function* that greets you
 - [ ] Modify your function so that it can greet anyone, using a *parameter*
