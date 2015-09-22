@@ -1,33 +1,34 @@
 ## Javascript Functions
 
 ### Materials:
-	Student's Laptop
-	https://repl.it/languages/javascript
-	[Slides]()
+Students' Laptops
+[In-class IDE](https://repl.it/languages/javascript)
+[Slides](http://slides.com/lizh/functions-in-js)
 
 ### Requirements:
-	Students should be able to:
-		Create variables
-		Store the result of an expression in a variable
-		Use console.log() to see outputs
+Students should be able to:  
+
+* Execute statements
+* Create variables
+* Store the result of an expression in a variable
+* Use `console.log()` to see outputs
 
 
 ### Objectives:
-* Students will write functions that:
-	* execute statements
-	* parameters change the behavior of the function
-	* have properly scoped variables
-	* use the return keyword to return an expression
+Students will write functions that:  
 
-
+* execute statements
+* have parameters that change the behavior of the function
+* have properly scoped variables
+* use the return keyword to return an expression
 * Students will be able to call functions:
-	* That have no parameters
-	* That have one or more parameters
+	* That have any number of parameters
+	* For use in expressions
 	* By composing other function calls as arguments- eg. sum(sum(5,10), 100)
 
 
 ### Assessments:
-Accomplish the following and send it to me:  
+Accomplish the following and [send it to me](mailto:lizthedeveloper@gmail.com):  
 (Use https://repl.it/languages/javascript)  
 
 - [ ] Start with by writing a *function* that greets you
@@ -42,5 +43,6 @@ Accomplish the following and send it to me:
 * What happens if we choose to use global variables rather than local variables? What if some other code uses the same variable names you do? (eg. name, location)
 * Why don't we just console.log everything, rather than using return?
 * What would happen if we tried to call a function inside of another function?
+* Even if we're defining a function that is only one line, how might this make our code easier to read?
 
 
