@@ -36,8 +36,8 @@ Accomplish the following and [send it to me](mailto:lizthedeveloper@gmail.com):
 - [ ] Modify your function so that it can greet anyone, using a *parameter*
 - [ ] Create a function that adds two numbers together, from *arguments*, and then prints the answer (call it **addTwo**)
 - [ ] Modify your function so that it can be called as an argument to itself, using the *return* statement
-- [ ] Create a new function that calculates the average of 6 numbers(called avg6), using the addTwo function (** use 5, 7, 9, 4, 5, 6 - you should get 6 as a result **) and returns them
-- [ ] Calculate the average of 18 numbers (use 5, 7, 9, 4, 5, 6, 19, 22, 33, 26, 27, 30, 44, 44, 45, 44, 46, 41 which is 25.389) and print it using console.log(). Use only function *calls*, with no variable assignment outside of the function calls.
+- [ ] Create a new function that calculates the average of 6 numbers(call it **avg6**), using the addTwo function (** use 5, 7, 9, 4, 5, 6 - you should get 6 as a result **) and returns them
+- [ ] Calculate the average of 18 numbers (use 5, 7, 9, 4, 5, 6, 19, 22, 33, 26, 27, 30, 44, 44, 45, 44, 46, 41 which is 25.389) and print it using console.log(). Use only function *calls*, with no variable assignment outside of the function calls. You may need to create another function for this!
 
 
 #### In-Class Questions:
